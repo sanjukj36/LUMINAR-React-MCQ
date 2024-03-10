@@ -4,6 +4,7 @@ import Home from './pages/Home'
 import Html from './pages/Html'
 import ReactQ from './pages/ReactQ'
 import CssQ from './pages/CssQ'
+import JavaSQ from './pages/JavaSQ'
 
 function App() {
 
@@ -14,6 +15,8 @@ function App() {
         <Route path='HTML/' element={<Html/>}/>
         <Route path='React/' element={<ReactQ/>}/>
         <Route path='Css/' element={<CssQ/>}/>
+        <Route path='Js/' element={<JavaSQ/>}/>
+
 
 
       </Routes>
