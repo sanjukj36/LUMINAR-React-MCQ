@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "question": "HTML stands for -",
+        "A": "HighText Machine Language",
+        "B": "HyperText and links Markup Language",
+        "C": "HyperText Markup Language",
+        "D": "None of these",
+        "answer":"C"
+    },
+    {
+        "id": 2,
+        "question": " The tags in HTML are -",
+        "A": "case-sensitive",
+        "B": "in upper case",
+        "C": "not case sensitive",
+        "D": "in lowercase",
+        "answer":"C"
+    },
+    {
+        "id": 3,
+        "question": "Which of the following are the attributes of the tag?",
+        "A": "method",
+        "B": "action",
+        "C": "Both (a) & (b)",
+        "D": "None of above",
+        "answer":"C"
+    },
+    {
+        "id": 4,
+        "question": "HTML stands for ?",
+        "A": "HighText Machine Language",
+        "B": "HyperText and links Markup Language",
+        "C": "HyperText Markup Language",
+        "D": "None of these",
+        "answer":"C"
+    },
+    {
+        "id": 5,
+        "question": "HTML stands for ?",
+        "A": "HighText Machine Language",
+        "B": "HyperText and links Markup Language",
+        "C": "HyperText Markup Language",
+        "D": "None of these",
+        "answer":"C"
+    }
+]
